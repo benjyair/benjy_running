@@ -1,18 +1,18 @@
 module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Running Page',
-    siteUrl: 'https://yihong.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteTitle: "Benjy's Running",
+    siteUrl: 'https://www.benjyair.com/',
+    logo: 'https://d3nn82uaxijpm6.cloudfront.net/assets/settings/badges/48-e988944d47ed60d661eb5075e0875e09021cfecfb2ba5a56fb4e5fd1041fce25.png',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://www.benjyair.com/',
       },
       {
         name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        url: 'https://www.benjyair.com/about/',
       },
     ],
   },
