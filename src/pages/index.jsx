@@ -86,7 +86,7 @@ const Index = () => {
   useEffect(() => {
     setViewport({
       width: '100%',
-      height: 500,
+      height: 1000,
       ...bounds,
     });
   }, [geoData]);
